@@ -1,8 +1,8 @@
-### Olá, sou o Gabriel Couto!
+# Olá, sou o Gabriel Couto!
 
-- 🔭 Estou cursando Ciência da Computação na Universidade Federal de Uberlândia (1/8)
-- 🌱 Estou estudando C, Python e HTML
-- 📫 Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br 
+#### * 🔭 Estou cursando Ciência da Computação na Universidade Federal de Uberlândia (1/8)
+#### * 🌱 Estou estudando C, Python e HTML
+#### * 📫 Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br 
 
 <div align="center">
   <a href="https://github.com/Gabrielcouto1">
