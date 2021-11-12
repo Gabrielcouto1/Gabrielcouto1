@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel Couto!
 
-#### * 🔭 Estou cursando Ciência da Computação na Universidade Federal de Uberlândia (1/8)
+#### * 🔭 Estou cursando Ciência da Computação na Universidade Federal de Uberlândia (2/8)
 #### * 🌱 Estou estudando C, Python e HTML
 #### * 📫 Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br 
 
