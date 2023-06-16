@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel Couto!
 
-#### *  Cursando Ciência da Computação na Universidade Federal de Uberlândia (4/8);
+#### *  Cursando Ciência da Computação na Universidade Federal de Uberlândia;
 #### *  Estagiário no Programa de Machine Learning da UOL Compass;
 #### *  Atualmente estudo C, Java, R, JavaScript, Python e SQL;
 #### *  Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br .
