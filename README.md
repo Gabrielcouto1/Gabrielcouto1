@@ -2,7 +2,7 @@
 
 #### *  Cursando Ciência da Computação na Universidade Federal de Uberlândia;
 #### *  Estagiário no Programa de Machine Learning da UOL Compass;
-#### *  Atualmente estudo C, Java, R, JavaScript, Python e SQL;
+#### *  Atualmente estudo C, Java, R, JavaScript, Python, SQL, Machine Learn, AWS e etc.;
 #### *  Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br .
 
 <div align="center">
