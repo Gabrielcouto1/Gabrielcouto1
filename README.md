@@ -1,7 +1,7 @@
 # Olá, sou o Gabriel Couto!
 
 #### *  Cursando Ciência da Computação na Universidade Federal de Uberlândia;
-#### *  Estagiário no Programa de Machine Learning da UOL Compass;
+#### *  Professor de programação de jogos 2D
 #### *  Certified AWS Cloud Practitioner;
 #### *  Atualmente estudo C, Java, R, JavaScript, Python, SQL, Machine Learn, AWS e etc.;
 #### *  Contate-me em gabrielcouto3.14@gmail.com ou gabrielcouto1@ufu.br .
