@@ -24,9 +24,9 @@
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,c,java,javascript,html,css,aws,mysql,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=r,python,c,javascript,html,css,aws,git&perline=4" />
   </a>
 </p>
 
