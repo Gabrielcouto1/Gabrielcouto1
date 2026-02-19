@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://github.com/Gabrielcouto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcouto1&](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCouto1&hide=JavaScript,%20html,css&langs_count=7&theme=dracula" />
+    
   </a>
   <a href="https://github.com/Gabrielcouto1">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielcouto1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
