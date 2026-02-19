@@ -1,12 +1,7 @@
 # Olá, eu sou o Gabriel Couto! 👋
 
 <p align="center"> 
-  <a href="https://github.com/Gabrielcouto1">
-    
-  </a>
-  <a href="https://github.com/Gabrielcouto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielcouto1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+
 </p>
 
 ---
