@@ -27,7 +27,6 @@
 - Soft Skills: Didática para ensino de tecnologia e gestão de projetos acadêmicos.
 
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="center">
   <a href="https://skillicons.dev">
