@@ -35,9 +35,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   </a>
 </p>
 
-- **Linguagens:** R, Python, C, JavaScript, SQL.
-- **Cloud:** AWS (EC2, S3, Lambda, IAM, etc.)
-- **Interesses:** Machine Learning, Estatística, Análise de dados, Estruturas de dados.
 
 
 ---
