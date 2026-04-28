@@ -8,7 +8,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** na Universidade Federal de Uberlândia (UFU).
+- 🎓 Bacharel em Ciência da Computação pela Universidade Federal de Uberlândia (UFU).
+- 🏆 Desenvolvi e defendi um modelo de Expected Goals (xG) para análise de futebol, utilizando Machine Learning (XGBoost).
 - 👨‍🏫 Professor de programação de jogos 2D, apaixonado por compartilhar conhecimento.
 - ☁️ **Certified AWS Cloud Practitioner**, sempre buscando soluções escaláveis e eficientes na nuvem.
 - 🎲 Entusiasta em análise e manipulação de dados.
@@ -16,6 +17,15 @@
 ---
 
 ### 🛠️ Habilidades e Tecnologias
+- Data Science: Python (Pandas, Scikit-learn, XGBoost), R (Tidymodels, ggplot2), Estatística e Modelagem Preditiva.
+- ETL/ELT: Desenvolvimento de pipelines para extração, transformação e carregamento de dados brutos em ambientes de análise.
+- Data Architectures: Conhecimento em modelagem de bancos de dados relacionais (SQL) e integração com serviços de armazenamento em nuvem.
+- Automação: Criação de scripts para coleta automatizada de dados e rotinas de backup (Shell Script, Python).
+- Ferramentas: Experiência prática com AWS (S3, EC2, Lambda) para processamento escalável e armazenamento.
+- Desenvolvimento: JavaScript, Node.js, C/C++, SQL.
+- Cloud & Ferramentas: AWS Services, Git, LaTeX (Overleaf), Flask.
+- Soft Skills: Didática para ensino de tecnologia e gestão de projetos acadêmicos.
+
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
